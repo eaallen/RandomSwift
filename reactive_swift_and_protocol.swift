@@ -27,3 +27,5 @@ func index(of cardWanted: Card) -> Card?{
   .send() -> lets the view know its going to change
 
 */
+
+
